@@ -9,4 +9,4 @@ A simple To-Do List application that allows users to manage their tasks effectiv
 4. Remove tasks from the list.
 5. Input validation to ensure meaningful entries.
 
-Technologies Used: HTML , CSS , JAVASCRIPT
+Technologies Used: HTML , CSS & JAVASCRIPT
